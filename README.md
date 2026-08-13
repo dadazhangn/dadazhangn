@@ -82,8 +82,8 @@
 | [Test_code](https://github.com/dadazhangn/Test_code) | 代码测试与练习 |
 | [house_other](https://github.com/dadazhangn/house_other) | 其他杂项项目 |
 
----
 
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -94,7 +94,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadazhangn&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ## 🔗 Connect With Me
